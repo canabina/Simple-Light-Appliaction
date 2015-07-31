@@ -5,4 +5,4 @@ Fast,  small (1.3 mb), a  powerful - framework for developing any web applicatio
 2. Enable mod_rewrite
 3. Enjoy
 
-/App - folder you web application, frontend module selected in config file a ('forntend_module_folder'). 
+/App - folder you web application, frontend module selected in config file a ('forntend_module_folder').
