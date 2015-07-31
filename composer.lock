@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/canabina/SimplelightCore.git",
-                "reference": "0d7164576c51c5908ec049f05fb4bf4b364f3f29"
+                "reference": "012486a238ec14e9ad1d9e028ae2ff45eb12fa53"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canabina/SimplelightCore/zipball/0d7164576c51c5908ec049f05fb4bf4b364f3f29",
-                "reference": "0d7164576c51c5908ec049f05fb4bf4b364f3f29",
+                "url": "https://api.github.com/repos/canabina/SimplelightCore/zipball/012486a238ec14e9ad1d9e028ae2ff45eb12fa53",
+                "reference": "012486a238ec14e9ad1d9e028ae2ff45eb12fa53",
                 "shasum": ""
             },
             "require": {
@@ -31,7 +31,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Small framework",
-            "time": "2015-07-31 09:51:38"
+            "time": "2015-07-31 10:55:49"
         },
         {
             "name": "smarty/smarty",
