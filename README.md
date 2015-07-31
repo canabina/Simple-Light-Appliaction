@@ -3,7 +3,7 @@ Fast,  small (1.3 mb), a  powerful - framework for developing any web applicatio
 
 1. Clone source to a folder accessible via the web
 2. Perfom to cli UNIX "sudo composer update"
-3. Set chmod to runtime 777
+3. Set chmod to runtime folder "777"
 4. Enable mod_rewrite
 5. Enjoy
 
