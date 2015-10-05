@@ -2,6 +2,7 @@
 {
     "require": {
         "smarty/smarty": "~3.1",
-        "simplelight/framework": "@dev"
+        "simplelight/framework": "@dev",
+        "catfan/Medoo": "0.9.8"
     }
 }
