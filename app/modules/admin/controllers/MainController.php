@@ -5,7 +5,9 @@ class MainController extends IndexController
 
 	public function actionIndex()
 	{
-		$this->view = 'main';
+		$this->pageTitle = 'Test site'; 
+		
+		$this->render = ['main'];
 	}
 
 }
